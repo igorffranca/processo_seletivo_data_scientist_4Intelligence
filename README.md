@@ -1,6 +1,7 @@
 # Case Técnico – Processo Seletivo – Data Science Intern
 
-
+Notebook: https://t.ly/ucu1x  
+Dados: https://t.ly/FPOI0  
 
 **Estudo de Caso**
 
